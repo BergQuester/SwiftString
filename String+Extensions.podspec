@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = 'A lightweight string extension for Swift'
 
   s.description      = <<-DESC
-String+Extensions is a lightweight string extension for Swift 3.
+String+Extensions is a lightweight string extension for Swift 4.
 This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage.
 
 Note the original client side Swift 2 repo can be found here: https://github.com/amayne/SwiftString
